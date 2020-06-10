@@ -12,8 +12,8 @@
     "styled-components": "^5.1.0"
   },
   "scripts": {
-    "start": "react-scripts start",
-    "build": "react-scripts build",
+    "start": "PORT= process.env.PORT || 3000 react-scripts start",
+    "build": "PORT= process.env.PORT || 3000 react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
