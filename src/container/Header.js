@@ -7,9 +7,8 @@ export const Header = (props) => {
 
 const H2 = styled.h2`
   color: palevioletred;
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
+  margin-left: 25em;
+  margin-right: 25em;
   padding: 1em;
   margin-bottom: -0.1em;
 `;
