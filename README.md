@@ -1,8 +1,11 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This app is hosted by Github and you can view it through:  https://nabinneupane.github.io/finance-tracker/
+
+or you can follow the steps below to run on your local machine. 
 
 ## Available Scripts
 
-In the project directory, you can run:  https://nabinneupane.github.io/finance-tracker/
+In the project directory, you can run: 
 
 ### `npm start`
 
