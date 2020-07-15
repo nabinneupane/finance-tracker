@@ -1,5 +1,5 @@
 {
-  "homepage": "https://nabinneupane.github.io/expense-tracker",
+  "homepage": "https://nabinneupane.github.io/finance-tracker",
   "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
@@ -21,7 +21,7 @@
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test --env=jsdom",
+    "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
