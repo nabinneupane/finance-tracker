@@ -1,6 +1,6 @@
 {
   "homepage": "https://nabinneupane.github.io/expense-tracker",
-  "name": "expensetracker",
+  "name": "expense-tracker",
   "version": "0.1.0",
   "private": true,
   "engines": {
